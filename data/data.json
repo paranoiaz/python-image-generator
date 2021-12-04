@@ -1,0 +1,80 @@
+{
+  "background": [
+    {
+      "index": 0,
+      "name": "white_background",
+      "location": "./data/images/background-1.png"
+    },
+    {
+      "index": 1,
+      "name": "green_background",
+      "location": "./data/images/background-2.png"
+    },
+    {
+      "index": 2,
+      "name": "blue_background",
+      "location": "./data/images/background-3.png"
+    },
+    {
+      "index": 3,
+      "name": "red_background",
+      "location": "./data/images/background-4.png"
+    }
+  ],
+  "body": [
+    {
+      "index": 0,
+      "name": "grey_body",
+      "location": "./data/images/body-1.png"
+    },
+    {
+      "index": 1,
+      "name": "dark_grey_body",
+      "location": "./data/images/body-2.png"
+    },
+    {
+      "index": 2,
+      "name": "light_grey_body",
+      "location": "./data/images/body-3.png"
+    }
+  ],
+  "clothing": [
+    {
+      "index": 0,
+      "name": "yellow_clothing",
+      "location": "./data/images/clothing-1.png"
+    },
+    {
+      "index": 1,
+      "name": "purple_clothing",
+      "location": "./data/images/clothing-2.png"
+    },
+    {
+      "index": 2,
+      "name": "no_clothing",
+      "location": "./data/images/clothing-3.png"
+    }
+  ],
+  "eyes": [
+    {
+      "index": 0,
+      "name": "square_eyes",
+      "location": "./data/images/eyes-1.png"
+    },
+    {
+      "index": 1,
+      "name": "circle_eyes",
+      "location": "./data/images/eyes-2.png"
+    },
+    {
+      "index": 2,
+      "name": "rectangle_eyes",
+      "location": "./data/images/eyes-3.png"
+    },
+    {
+      "index": 3,
+      "name": "no_eyes",
+      "location": "./data/images/eyes-4.png"
+    }
+  ]
+}
