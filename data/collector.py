@@ -13,7 +13,7 @@ class DataCollector:
 
     def parse_json(self, file_name: str) -> None:
         try:
-            with open(file_name, "r+") as json_file:
+            with open(file_name, "r") as json_file:
                 self.parsed_json = json.load(json_file)
         except IOError:
             print(f"OS error occurred with {file_name}.")
