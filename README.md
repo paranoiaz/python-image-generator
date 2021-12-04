@@ -8,7 +8,7 @@ Pillow
 
 **Notes**
 
-Keep in mind when processing a large amount of images it can take a while before your images are saved. It is advised to use debug mode when generating large batches. Place the images you want to use in the __images__ directory and the structure of your layering in the __data.json__ file. Output is done in the __output__ directory but can be changed in __main.py__ just like the path to the data file.
+Before running create a directory called __output__ in the __data__ directory. Keep in mind when processing a large amount of images it can take a while before your images are saved. It is advised to use debug mode when generating large batches. Place the images you want to use in the __images__ directory and the structure of your layering in the __data.json__ file. Output is done in the __output__ directory but can be changed in __main.py__ just like the path to the data file.
 
 **Usage**
 ```
